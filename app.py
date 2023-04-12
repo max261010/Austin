@@ -26,7 +26,7 @@ from plotly.subplots import make_subplots
 import pydeck as pdk
 import seaborn as sns
 
-from nltk.corpus import stopwords
+
 
 sns.set()
 warnings.simplefilter(action='ignore', category=FutureWarning)
