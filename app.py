@@ -25,8 +25,7 @@ import streamlit as st
 from plotly.subplots import make_subplots
 import pydeck as pdk
 import seaborn as sns
-import plotly.io as pio
-import nltk
+
 from nltk.corpus import stopwords
 
 sns.set()
